@@ -7,4 +7,4 @@ https://drive.google.com/file/d/19SKzrwbOcnTvd1Tx9f8RNjjn7Tq6LvUr/view?usp=shari
 
 Below is the link to our presentation video:
 
-https://youtu.be/jD5JUDGfaD8
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jD5JUDGfaD8/0.jpg)](https://youtu.be/jD5JUDGfaD8)
