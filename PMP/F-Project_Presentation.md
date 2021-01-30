@@ -1,3 +1,10 @@
 # PROJECT OVERVIEW
 ## F. PROJECT PRESENTATION
-Below are the project presentation video:
+
+Below if the link to our presentation slides:
+
+https://drive.google.com/file/d/1fsh19MEBoMyMEU0aD1qYWPeU6dQZhn4o/view?usp=sharing
+
+Below is the link to our presentation video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jD5JUDGfaD8/0.jpg)](https://youtu.be/jD5JUDGfaD8)
